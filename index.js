@@ -9,5 +9,3 @@ var greetSpecialGuest = "Hello, Neil deGrasse Tyson!";
 var topic = "space"
 
 var conversation = 'Let\'s talk about space';
-
-var topicConversation = 'Let\'s talk about space'
